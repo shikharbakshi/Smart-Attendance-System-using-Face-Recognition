@@ -4,7 +4,7 @@ The Files in the directory are :
 attendance.py : This is the main script of the project. It implements the GUI of the project and calls functions from the modules package developed.
 # Getting Started
 # Prerequisites
-You need to install the XAMPP server in order to run the project. XAMPP is one of the widely used cross-platform web servers, which helps developers to create and test their programs on a local webserver. The system might require Python installed along with OpenCV libraries. Install Numpy, Python Face Recognition module, Python time Module, PyMySQL module, glob module in python.
+Download the project from the Attendance_Project.txt file. You need to install the XAMPP server in order to run the project. XAMPP is one of the widely used cross-platform web servers, which helps developers to create and test their programs on a local webserver. The system might require Python installed along with OpenCV libraries. Install Numpy, Python Face Recognition module, Python time Module, PyMySQL module, glob module in python.
 
 # Steps to run the Project
 
